@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "reactnativetodo201fda34": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

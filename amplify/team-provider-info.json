@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactnativetodo-dev-205839-authRole",
+      "UnauthRoleArn": "arn:aws:iam::337360241061:role/amplify-reactnativetodo-dev-205839-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::337360241061:role/amplify-reactnativetodo-dev-205839-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-reactnativetodo-dev-205839-deployment",
+      "UnauthRoleName": "amplify-reactnativetodo-dev-205839-unauthRole",
+      "StackName": "amplify-reactnativetodo-dev-205839",
+      "StackId": "arn:aws:cloudformation:eu-central-1:337360241061:stack/amplify-reactnativetodo-dev-205839/a2efb6e0-7d1b-11eb-a1f4-0aeffe35c30a",
+      "AmplifyAppId": "do9l1a1tb3ou5"
+    },
+    "categories": {
+      "auth": {
+        "reactnativetodo201fda34": {}
+      }
+    }
+  }
+}
